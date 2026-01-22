@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=250&section=header&text=Aditya%20Hans&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Building%20Scalable%20Systems%20%7C%20MERN%20Stack%20Engineer&descSize=20&descAlignY=55&descAlign=50" alt="Header" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=250&section=header&text=Aditya%20Hans&fontSize=50&fontAlignY=38&animation=fadeIn&desc=MERN%20Stack%20Engineer%20%7C%20Scalable%20Systems&descSize=20&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -15,9 +15,7 @@
   <a href="https://github.com/AddyTheDeveloper">
     <img src="https://img.shields.io/github/stars/AddyTheDeveloper?label=Stars&style=for-the-badge&color=ff69b4" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Hire%20Me-Click%20Here-success?style=for-the-badge&logo=linkedin" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=AddyTheDeveloper&label=Profile+Views&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </p>
 
 <br />
@@ -25,25 +23,25 @@
 <h2 align="center">⚡ About Me</h2>
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td valign="center" width="50%">
+      <td width="55%" valign="center">
         <br/>
         <p>
-          Hi, I'm <b>Aditya Hans</b>! I am a passionate <b>Full Stack Developer</b> focused on building production-ready applications that solve real-world problems.
+          Hi, I'm <b>Aditya Hans</b>! A passionate <b>Full Stack Developer</b> crafting robust and scalable web applications.
         </p>
         <p>
-          🔭 <b>Currently working on:</b> Advanced MERN Projects<br>
-          🌱 <b>Learning:</b> System Design & Scalable Architecture<br>
-          🎯 <b>Goal:</b> SDE at Big Tech / MNCs<br>
-          ⚡ <b>Fun Fact:</b> I debug faster than I compile.
+          🔭 <b>Current Focus:</b> Building production-ready MERN apps.<br>
+          🌱 <b>Learning:</b> Advanced System Design & Architecture.<br>
+          👨‍💻 <b>Goal:</b> SDE at Big Tech / Product-based MNCs.<br>
+          ⚡ <b>Motto:</b> Build. Measure. Improve.
         </p>
         <p>
-          <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+          <i>"I turn coffee into code and bugs into features."</i>
         </p>
       </td>
-      <td valign="center" width="40%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+      <td width="40%" valign="center">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Boy Coding" />
       </td>
     </tr>
   </table>
@@ -51,7 +49,7 @@
 
 <br/>
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -61,30 +59,30 @@
 
 <br/>
 
-<h2 align="center">📈 GitHub Analytics</h2>
+<h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AddyTheDeveloper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AddyTheDeveloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AddyTheDeveloper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AddyTheDeveloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Languages" />
 </div>
 
 <br/>
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AddyTheDeveloper&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</div>
+
+<div align="center">
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AddyTheDeveloper&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
 </div>
 
 <br/>
 
-<h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
-  <img src="https://github.com/AddyTheDeveloper/AddyTheDeveloper/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-3a4e3b6c-5b6f-4f16-bcb4-0e7a5f3b5c28.gif" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-3a4e3b6c-5b6f-4f16-bcb4-0e7a5f3b5c28.gif" width="100%" alt="Footer Divider" />
 </p>
 
 <p align="center">
-  <b>Thanks for visiting! Let's connect.</b>
+  <b>Thanks for visiting!</b>
 </p>
