@@ -40,7 +40,7 @@
 👋 Name        : Aditya Hans
 🎓 Background  : Computer Science Student
 💼 Role        : Frontend / Backend / Full Stack Developer
-🧑‍💻 Stack     : MERN
-📚 Focus      : DSA + System Design + Real-World Projects
-🎯 Target     : Big MNCs
-⚡ Mindset    : Build → Measure → Improve
+🧑‍💻 Stack       : MERN
+📚 Focus       : DSA + System Design + Real-World Projects
+🎯 Target      : Big MNCs
+⚡ Mindset     : Build → Measure → Improve
